@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente desenvolvendo o APP [Perfumaria Pontes](https://github.com/WellysonP/Shopw2)
 
-- 🌱 Atualmente estou estudando **Flutter e Dart**
+- 🌱 Estudando **Flutter e Dart**
 
 - 💬 Pergumente-me sobre **Flutter, Dart, JavaScript, Html e Css**
 
