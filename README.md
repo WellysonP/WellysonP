@@ -1,15 +1,15 @@
 <h1 align="center">Oi 👋, Eu sou Wellyson Pontes</h1>
 <h3 align="center">Engenheiro e Desenvolvedor Jr.</h3>
 
-- 🔭 Atualmente desenvolvendo o APP [Perfumaria Pontes](https://github.com/WellysonP/Shopw2)
+- 🔭 Atualmente desenvolvendo o APP [Perfumaria Pontes](https://github.com/WellysonP/Shopw2).
 
-- 🌱 Estudando **Flutter e Dart**
+- 🌱 Estudando **Flutter e Dart**.
 
-- 💬 Pergumente-me sobre **Flutter, Dart, JavaScript, Html e Css**
+- 💬 Pergumente-me sobre **Flutter, Dart, JavaScript, Html e Css**.
 
-- 📫 Você me encontrar pelo e-mail **wellysonpontes@gmail.com**
+- 📫 Você me encontrar pelo e-mail **wellysonpontes@gmail.com**.
 
-- 📄 Mais informações [https://www.linkedin.com/in/wellysonpontes/](https://www.linkedin.com/in/wellysonpontes/)
+- 📄 Mais informações [https://www.linkedin.com/in/wellysonpontes/](https://www.linkedin.com/in/wellysonpontes/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
