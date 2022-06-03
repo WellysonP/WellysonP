@@ -7,7 +7,7 @@
 
 - 💬 Pergumente-me sobre **Flutter, Dart, JavaScript, Html e Css**.
 
-- 📫 Você me encontrar pelo e-mail **wellysonpontes@gmail.com**.
+- 📫 Você pode me encontrar pelo e-mail **wellysonpontes@gmail.com**.
 
 - 📄 Mais informações [https://www.linkedin.com/in/wellysonpontes/](https://www.linkedin.com/in/wellysonpontes/).
 
