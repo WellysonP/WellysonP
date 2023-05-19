@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Wellyson Pontes</h1>
 <h3 align="center">Engenheiro e Desenvolvedor Jr. 💻</h3>
 
-- 👔 Desenvolvedor na empresa LW Soluções em Tecnologia ([https://github.com/WellysonP/Shopw2](https://lwsistemas.com.br/)).
+- 👔 Desenvolvedor na empresa LW Soluções em Tecnologia ([https://lwsistemas.com.br/](https://lwsistemas.com.br/)).
 
 - 📚 Estudando **React, Flutter, Python e Redes Neurais**.
 
