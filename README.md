@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Wellyson Pontes</h1>
 <h3 align="center">Engenheiro e Desenvolvedor Full Stack Jr. 💻</h3>
 
-- 👔 Desenvolvedor jr na empresa CIALNE companhia de Alimentos do Nordeste ([https://www.cialne.com.br/](https://www.cialne.com.br/)).
+- 👔 Desenvolvedor jr na empresa CIALNE Companhia de Alimentos do Nordeste ([https://www.cialne.com.br/](https://www.cialne.com.br/)).
 
 - 📚 Estudando **React, Flutter, Python e Redes Neurais**.
 
