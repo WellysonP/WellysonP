@@ -2,7 +2,7 @@
 <h3 align="center">Engenheiro e Desenvolvedor de Software Full Stack 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Bem-vindo(a)+ao+meu+perfil!;Desenvolvedor+na+CIALNE;Apaixonado+por+tecnologia+e+inovação!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=550&lines=Bem-vindo(a)+ao+meu+perfil!;Desenvolvedor+na+CIALNE;Apaixonado+por+tecnologia+e+inovação!" alt="Typing SVG">
 </p>
 
 ---
