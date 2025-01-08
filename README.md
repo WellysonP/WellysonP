@@ -57,6 +57,9 @@
 
 ### Frameworks Backend  
 <p align="left">
+  <a href="https://quarkus.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/quarkus-icon.svg" alt="Quarkus" width="40" height="40"/>
+  </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
   </a>
